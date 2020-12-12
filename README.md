@@ -1,10 +1,12 @@
 ### Hi there, I'm Facu  👋
 
 ## I'm a Jr. Full Stack Developer!!
-
-- 🎓   I just finished "Plataforma 5" bootcamp
-- 🎂   I’m 21 
-- 📍   I’m from Argentina, Santa Fe 🇦🇷
+<hr />
+🎓   I just finished "Plataforma 5" bootcamp
+<hr />
+🎂   I’m 21 
+<hr />
+📍   I’m from Argentina, Santa Fe 🇦🇷
 
 
 ### Connect with me:
@@ -39,5 +41,6 @@
 
 - [Movie Database](https://github.com/FacuEM/Omdb2.0)
 - [Ecommerce](https://github.com/FacuEM/Ecommerce)
-- Profesional proyect for [Mercado Libre](https://www.mercadolibre.com.ar/), chrome extension > Private for legal reasons 
+- Profesional proyect for [Mercado Libre](https://www.mercadolibre.com.ar/), chrome extension 
+> Private for legal reasons 
 
