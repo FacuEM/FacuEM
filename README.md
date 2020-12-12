@@ -2,11 +2,11 @@
 
 ## I'm a Jr. Full Stack Developer!!
 
-🎓  - I just finished "Plataforma 5" bootcamp
+🎓  ‎ I just finished "Plataforma 5" bootcamp
 <br />
-🎂  - I’m 21 
+🎂  ‎ I’m 21 
 <br />
-📍  - I’m from Argentina, Santa Fe 🇦🇷
+📍  ‎ I’m from Argentina, Santa Fe 🇦🇷
 
 
 ### Connect with me:
