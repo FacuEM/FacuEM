@@ -1,12 +1,12 @@
 ### Hi there, I'm Facu  👋
 
 ## I'm a Jr. Full Stack Developer!!
+
+🎓  - I just finished "Plataforma 5" bootcamp
 <br />
-🎓   I just finished "Plataforma 5" bootcamp
+🎂  - I’m 21 
 <br />
-🎂   I’m 21 
-<br />
-📍   I’m from Argentina, Santa Fe 🇦🇷
+📍  - I’m from Argentina, Santa Fe 🇦🇷
 
 
 ### Connect with me:
