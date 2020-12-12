@@ -2,15 +2,15 @@
 
 ## I'm a Jr. Full Stack Developer!!
 
-+🎓  I just finished "Plataforma 5" bootcamp
-+🎂  I’m 21 
-+📍  I’m from Argentina, Santa Fe 🇦🇷
+- 🎓  I just finished "Plataforma 5" bootcamp
+- 🎂  I’m 21 
+- 📍  I’m from Argentina, Santa Fe 🇦🇷
 
 
 ### Connect with me:
 
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  href='https://www.linkedin.com/in/facundo-martinez-5356841b1/'/>
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/facundo-martinez-5356841b1/)
 
 
 <br />
