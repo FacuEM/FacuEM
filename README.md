@@ -41,7 +41,7 @@
 
 - [Movie Database](https://github.com/FacuEM/Omdb2.0)
 - [Ecommerce](https://github.com/FacuEM/Ecommerce)
-- Profesional proyect for [Mercado Libre](https://www.mercadolibre.com.ar/), chrome extension.
+- Professional project for [Mercado Libre](https://www.mercadolibre.com.ar/), chrome extension.
   - Private for legal reasons.
 
 
