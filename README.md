@@ -43,5 +43,6 @@
 - [Ecommerce](https://github.com/FacuEM/Ecommerce)
 - Professional project for [Mercado Libre](https://www.mercadolibre.com.ar/), chrome extension.
   - Private for legal reasons.
+- [Ecommerce (solo)](https://ecom-solo.web.app/)
 
 
