@@ -1,12 +1,13 @@
 ### Hi there, I'm Facu  👋
 
-## I'm a Jr. Full Stack Developer!!
 
-🎓  ‎ I just finished "Plataforma 5" bootcamp
+🎓  ‎ Fullstack bootcamp @ Plataforma5
 <br />
-🎂  ‎ I’m 21 
+🎂  ‎ I’m 22
 <br />
 📍  ‎ I’m from Argentina, Santa Fe 🇦🇷
+<br />
+🧑‍💻  ‎ Frontend engineer @ LoopStudio
 
 
 ### Connect with me:
