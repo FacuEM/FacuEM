@@ -3,7 +3,7 @@
 
 🎓  ‎ Fullstack bootcamp @ Plataforma5
 <br />
-🎂  ‎ I’m 22
+🎂  ‎ I’m 24
 <br />
 📍  ‎ I’m from Argentina, Santa Fe 🇦🇷
 <br />
